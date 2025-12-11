@@ -14,6 +14,9 @@ Focused on computational biology, data analysis.
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bioinformatics-6DB33F" />
+  <img src="https://img.shields.io/badge/PyMOL-FF8800?logo=pymol&logoColor=white" />
+  <img src="https://img.shields.io/badge/RasMol-800000?logoColor=white" />
+
 </p>
 
 ---
