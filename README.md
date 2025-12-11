@@ -52,3 +52,30 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">💖 Thanks for visiting!</p>
+<h1 align="center">Hi, I'm Akash 👋</h1>
+
+<p align="center">
+  <b>BSc Genetics & Chemistry | Aspiring Geneticist | Research & Bioinformatics Learner</b>
+</p>
+
+---
+
+## 🧬 About Me
+- 🎓 Currently studying *BSc (Genetics & Chemistry)*
+- 🔬 Interested in *Genetics, Bioinformatics, Molecular Biology*
+- 💻 Learning *Python, Git, Linux, and Data Analysis for Biology*
+- 🎯 Goal: Pursue *MSc Genetics* and research in human genetics
+
+---
+
+## 🛠 Skills & Tools
+*Biology:* Genetics, Molecular Biology, Biochemistry, Lab Techniques  
+*Programming:* Python (basics), Git & GitHub  
+*Tools:* Linux, VS Code, BLAST, NCBI tools, Excel  
+
+---
+
+## 📂 Featured Projects
+### 🔹 *Genetics / Biology Projects*
+- **DNA Mutation
+- 
