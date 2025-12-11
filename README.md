@@ -2,7 +2,7 @@
 <p align="center">
 Bioinformatics Student • Genetics & Genomics Enthusiast • AI Learner  
 <br>
-Focused on computational biology, data analysis, and building useful tools.
+Focused on computational biology, data analysis.
 </p>
 
 ---
