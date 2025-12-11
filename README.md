@@ -19,55 +19,29 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-scenery.gif" width="400"/>
 </p>
-
----
-
-### 🌸 About Me  
-- 🎓 Genetics Student  
-- 💻 Learning Linux, Git & Programming  
-- 🔬 Interested in Genetics, Bioinformatics & Research  
-- 🎧 Loves music & anime aesthetics  
-- ✨ Building myself step by step
-
----
-
-### 🌈 Tech I Use  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,python" />
-</p>
-
----
-
-### 🌟 Stats  
+<h1 align="center">👋 Hi, I'm Akash R</h1>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+Bioinformatics Student | Genetics & Genomics Enthusiast | AI Learner  
+<br>
+Passionate about computational biology, genomics research, and building automated tools using Python.
 </p>
 
 ---
 
-### ✨ Quote of the Day  
-> "Small steps daily lead to big changes."
+## 🔗 About Me
+- 🎓 Bioinformatics & Genetics student with strong interest in **genomics, molecular biology, and computational analysis**  
+- 🧬 Exploring **variant analysis, sequence alignment, and biological databases**  
+- 🤖 Actively learning **AI, machine learning, and automation tools**  
+- 🛠 Building small **bioinformatics pipelines** and **data-processing scripts**  
+- 🌱 Learning **Linux, Git, Python, and R**  
+- 🤝 Open to collaborations in **bioinformatics + programming projects**
 
 ---
 
-<p align="center">💖 Thanks for visiting!</p>
-<h1 align="center">Hi, I'm Akash 👋</h1>
+## 🛠 Skills & Tools
 
-<p align="center">
-  <b>BSc Genetics & Chemistry | Aspiring Geneticist | Research & Bioinformatics Learner</b>
-</p>
-
----
-
-## 🧬 About Me
-- 🎓 Currently studying *BSc (Genetics & Chemistry)*
-- 🔬 Interested in *Genetics, Bioinformatics, Molecular Biology*
-- 💻 Learning *Python, Git, Linux, and Data Analysis for Biology*
-- 🎯 Goal: Pursue *MSc Genetics* and research in human genetics
-
----
-
+### 🚀 Programming & Technical
+!
 ## 🛠 Skills & Tools
 *Biology:* Genetics, Molecular Biology, Biochemistry, Lab Techniques  
 *Programming:* Python (basics), Git & GitHub  
