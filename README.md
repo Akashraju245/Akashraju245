@@ -49,7 +49,9 @@ Focused on computational biology, data analysis.
   <img src="https://img.shields.io/badge/AI%20Automation%20Scripts-9B59B6" />
 </p>
 
-*(Add repository links when they are ready)*
+https://github.com/Akashraju245/Gwas-analysis-r
+https://github.com/Akashraju245/variant-annotation-pipeline
+https://github.com/Akashraju245/dna_analyzer.py
 
 ---
 
