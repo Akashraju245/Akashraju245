@@ -9,7 +9,7 @@ Focused on computational biology, data analysis.
 
 ## 🌱 What I'm Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drug%20Discovery-E67E22?logo=chemical&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
