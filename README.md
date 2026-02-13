@@ -9,6 +9,7 @@ Focused on computational biology, data analysis.
 
 ## 🌱 What I'm Learning
 <p>
+  <img src="https://img.shields.io/badge/Python%203.10-1F618D" />
   <img src="https://img.shields.io/badge/Drug%20Discovery-E67E22?logo=chemical&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
@@ -44,7 +45,7 @@ Focused on computational biology, data analysis.
 
 ## 📂 Featured Projects
 <p>
-  <img src="https://img.shields.io/badge/Drug-Target-Interaction-Prediction-E67E22" />
+  <img src="https://img.shields.io/badge/Drug Target Interaction Prediction-0A192F?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Variant%20Annotation%20Pipeline-2980B9" />
   <img src="https://img.shields.io/badge/Genomics%20Assignments-16A085" />
   <img src="https://img.shields.io/badge/AI%20Automation%20Scripts-9B59B6" />
