@@ -44,7 +44,7 @@ Focused on computational biology, data analysis.
 
 ## 📂 Featured Projects
 <p>
-  <img src="https://img.shields.io/badge/Drug-Target-Interaction-Prediction" />
+  <img src="https://img.shields.io/badge/Drug-Target-Interaction-Prediction-E67E22" />
   <img src="https://img.shields.io/badge/Variant%20Annotation%20Pipeline-2980B9" />
   <img src="https://img.shields.io/badge/Genomics%20Assignments-16A085" />
   <img src="https://img.shields.io/badge/AI%20Automation%20Scripts-9B59B6" />
