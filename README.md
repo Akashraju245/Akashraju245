@@ -44,11 +44,12 @@ Focused on computational biology, data analysis.
 
 ## 📂 Featured Projects
 <p>
+  <img src="https://github.com/Akashraju245/Drug-Target-Interaction-Prediction" />
   <img src="https://img.shields.io/badge/Variant%20Annotation%20Pipeline-2980B9" />
   <img src="https://img.shields.io/badge/Genomics%20Assignments-16A085" />
   <img src="https://img.shields.io/badge/AI%20Automation%20Scripts-9B59B6" />
 </p>
-
+https://github.com/Akashraju245/Drug-Target-Interaction-Prediction
 https://github.com/Akashraju245/Gwas-analysis-r
 https://github.com/Akashraju245/variant-annotation-pipeline
 https://github.com/Akashraju245/dna_analyzer.py
