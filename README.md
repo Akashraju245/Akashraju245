@@ -29,6 +29,7 @@ Focused on computational biology, data analysis.
   <img src="https://img.shields.io/badge/BLAST-1ABC9C" />
   <img src="https://img.shields.io/badge/Sequence%20Alignment-2ECC71" />
   <img src="https://img.shields.io/badge/PDB/SDF%20Handling-E67E22" />
+  <img src="https://img.shields.io/badge/Molecular%20Docking-blue" />
 </p>
 
 ---
@@ -49,11 +50,7 @@ Focused on computational biology, data analysis.
   <img src="https://img.shields.io/badge/Variant%20Annotation%20Pipeline-2980B9" />
   <img src="https://img.shields.io/badge/Genomics%20Assignments-16A085" />
   <img src="https://img.shields.io/badge/AI%20Automation%20Scripts-9B59B6" />
-</p>
-https://github.com/Akashraju245/Drug-Target-Interaction-Prediction
-https://github.com/Akashraju245/Gwas-analysis-r
-https://github.com/Akashraju245/variant-annotation-pipeline
-https://github.com/Akashraju245/dna_analyzer.py
+  <img src="https://img.shields.io/badge/Capsaicin%20Docking-green" />
 
 ---
 
