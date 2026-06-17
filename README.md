@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Akash R</h1>
 <p align="center">
-Bioinformatics Student • Genetics & Genomics Enthusiast • AI Learner  
+Genomics & Bioinformatics Graduate | Sequence Analysis | Molecular Docking | GWAS | Python | R | Open to Remote Roles  
 <br>
 Focused on computational biology, data analysis.
 </p>
