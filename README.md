@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Akash R</h1>
 <p align="center">
-Genomics & Bioinformatics Graduate | Sequence Analysis | Molecular Docking | GWAS | Python | R | Open to Remote Roles  
+Aspiring Gene-Editing Researcher | Molecular Genetics | Molecular Docking | GWAS | Bioinformatics Pipelines | Python | R
 <br>
-Focused on computational biology, data analysis.
+Focused on computational biology, genomics research, and data analysis.
 </p>
 
 ---
@@ -17,7 +17,7 @@ Focused on computational biology, data analysis.
   <img src="https://img.shields.io/badge/Bioinformatics-6DB33F" />
   <img src="https://img.shields.io/badge/PyMOL-FF8800?logo=pymol&logoColor=white" />
   <img src="https://img.shields.io/badge/RasMol-800000?logoColor=white" />
-
+  <img src="https://img.shields.io/badge/CRISPR%20%26%20Gene%20Editing-C0392B" />
 </p>
 
 ---
@@ -30,6 +30,7 @@ Focused on computational biology, data analysis.
   <img src="https://img.shields.io/badge/Sequence%20Alignment-2ECC71" />
   <img src="https://img.shields.io/badge/PDB/SDF%20Handling-E67E22" />
   <img src="https://img.shields.io/badge/Molecular%20Docking-blue" />
+  <img src="https://img.shields.io/badge/GWAS%20Variant%20Prioritization-9B59B6" />
 </p>
 
 ---
@@ -40,17 +41,22 @@ Focused on computational biology, data analysis.
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoDock%20Vina-2C3E50" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-<p>
-  <img src="https://img.shields.io/badge/Drug Target Interaction Prediction-0A192F?logo=logoColor=pink" />
-  <img src="https://img.shields.io/badge/Variant%20Annotation%20Pipeline-2980B9" />
-  <img src="https://img.shields.io/badge/Genomics%20Assignments-16A085" />
-  <img src="https://img.shields.io/badge/AI%20Automation%20Scripts-9B59B6" />
-  <img src="https://img.shields.io/badge/Capsaicin%20Docking-green" />
+
+## ✨ currently working on.
+| # | Project | Focus |
+|---|---|---|
+| 1 | 📝 Review Paper — Cancer Genetics | Hereditary Cancer Syndromes (BRCA1/2, Lynch Syndrome) & Fertility Preservation |
+| 2 | 📝 Review Paper — Gynecologic Genomics | GWAS & Molecular Profiling of PCOS |
+| 3 | 📝 Review Paper — Neurogenetics | De Novo Mutations, Parental Age & Neurodevelopmental Disorders |
+| 4 | 📝 Review Paper — Epigenetics of Gametogenesis & ART | Epigenetic Reprogramming Mechanisms & Offspring Outcomes |
+| 5 | 📝 Review Paper — CRISPR/Gene Editing | CRISPR-Cas9 Applications in Cancer & Reproductive Genetic Disorders |
+
+Working toward graduate research in gene editing, causal gene identification, and genetic defect repair.
 
 ---
 
@@ -68,5 +74,4 @@ Focused on computational biology, data analysis.
 </p>
 
 ---
-
 <p align="center">⭐ Thanks for visiting my profile!</p>
